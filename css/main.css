@@ -1977,6 +1977,7 @@ nav a:hover{
 
 .header-text h1{
     color:#222;
+    text-align:center;
 }
 .header-text p{
     color:#222;
@@ -2246,4 +2247,6 @@ a.payer {
 a.payer:hover{
   opacity: 0.7;
 }
+
+.desc-prix{ font-size: 15px !important; line-height: 2!important;}
 
